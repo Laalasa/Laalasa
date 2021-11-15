@@ -2,7 +2,7 @@
 <h3 align="center">Coder | Designer | Web Developer</h3>
 
  📫 Reach to me at **laalasa.krishna@gmail.com**
-
+<img align="right" src="https://github.com/Laalasa/Laalasa/blob/main/image.png" width="400" alt="laalasa"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/laalasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="laalasa" height="30" width="40" /></a>
